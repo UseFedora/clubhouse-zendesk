@@ -44,6 +44,6 @@
   },
   "dependencies": {
     "request": "^2.81.0",
-    "showdown": "^1.7.3"
+    "showdown": "^1.9.1"
   }
 }
